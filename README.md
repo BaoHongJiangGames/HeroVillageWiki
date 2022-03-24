@@ -2,6 +2,8 @@
 
 种地勇者的Wiki，可以在这查询游戏攻略和资料。
 
+推荐使用 [gitbook访问](https://herovillage.gitbook.io/wiki/)     也可使用 [github访问](https://github.com/BaoHongJiangGames/HeroVillageWiki)
+
 [1.-mo-gu-dao-ren-wu](you-xi-zi-liao/1.-mo-gu-dao-ren-wu/ "mention")
 
 [2.-shan-zhu-wang-guo-dao-ren-wu.md](you-xi-zi-liao/2.-shan-zhu-wang-guo-dao-ren-wu.md "mention")
