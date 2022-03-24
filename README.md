@@ -2,6 +2,12 @@
 
 种地勇者的Wiki，可以在这查询游戏攻略和资料。
 
-[剧情任务](you-xi-zi-liao/ju-qing-ren-wu/)&#x20;
+[1.-mo-gu-dao-ren-wu](you-xi-zi-liao/1.-mo-gu-dao-ren-wu/ "mention")
 
-[常见问题](you-xi-zi-liao/chang-jian-wen-ti.md) 关于游戏的其它疑问
+[2.-shan-zhu-wang-guo-dao-ren-wu.md](you-xi-zi-liao/2.-shan-zhu-wang-guo-dao-ren-wu.md "mention")
+
+[3.-huo-shan-dao-ren-wu.md](you-xi-zi-liao/3.-huo-shan-dao-ren-wu.md "mention")
+
+[4.-han-bing-dao-ren-wu.md](you-xi-zi-liao/4.-han-bing-dao-ren-wu.md "mention")
+
+[chang-jian-wen-ti.md](you-xi-zi-liao/chang-jian-wen-ti.md "mention")
