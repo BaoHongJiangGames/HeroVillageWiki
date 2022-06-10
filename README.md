@@ -4,6 +4,8 @@
 
 推荐使用 [gitbook访问](https://herovillage.gitbook.io/wiki/)     也可使用 [github访问](https://github.com/BaoHongJiangGames/HeroVillageWiki)
 
+任何人都可以参与WIKI的编写，点击这里开始编辑。
+
 ### 剧情任务
 
 [1.-mo-gu-dao-ren-wu](you-xi-zi-liao/1.-mo-gu-dao-ren-wu/ "mention")
