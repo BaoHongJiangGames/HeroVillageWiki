@@ -12,6 +12,7 @@ layout: editorial
 | [zhu-xian-lao-shu-yong-zhe-shu-ke.md](zhu-xian-lao-shu-yong-zhe-shu-ke.md "mention")                                 | 帮助舒克，让其加入小岛                    |
 | [zhu-xian-jian-shang-ge-bu-lin-yu-wan-dou.md](zhu-xian-jian-shang-ge-bu-lin-yu-wan-dou.md "mention")                 | 与奸商周旋，找到神秘的藏宝地                 |
 | [zhu-xian-rong-yuan-gong-zhu.md](zhu-xian-rong-yuan-gong-zhu.md "mention")                                           | 解救变成蝾螈的美丽公主                    |
+| [zhu-xian-diao-yu-xie-hui.md](zhu-xian-diao-yu-xie-hui.md "mention")                                                 | 开启钓鱼系统                         |
 | [[zhi-xian-cai-hong-shu-de-gu-shi.md](zhi-xian-cai-hong-shu-de-gu-shi.md "mention")](zhu-xian-rong-yuan-gong-zhu.md) | 找到所有隐藏在岛上的彩虹树，进入神秘的彩虹，拿取稀有的奖励！ |
 | [zhi-xian-hai-bian-ge-sheng.md](zhi-xian-hai-bian-ge-sheng.md "mention")                                             | 帮助漂亮的人鱼公主，获得稀有的奖励              |
 | [zhi-xian-zhuo-mi-cang-de-mo-gu.md](zhi-xian-zhuo-mi-cang-de-mo-gu.md "mention")                                     | 和蘑菇哥哥和妹妹一起做迷藏                  |
