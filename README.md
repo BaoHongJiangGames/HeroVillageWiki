@@ -4,7 +4,7 @@
 
 推荐使用 [gitbook访问](https://herovillage.gitbook.io/wiki/)     也可使用 [github访问](https://github.com/BaoHongJiangGames/HeroVillageWiki)
 
-任何人都可以参与WIKI的编写，点击这里开始编辑。
+任何人都可以参与WIKI的编写，[点击这里](https://app.gitbook.com/invite/jN4SLSCuuJIxy1rqyZXa/aHXBQ8AHhNl6YCLK8Zqr)开始编辑。编辑内容将在审核后更新到WIKI。
 
 ### 剧情任务
 
